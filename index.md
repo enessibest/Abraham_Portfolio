@@ -50,5 +50,5 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Quantifiable result:** using this classifiers , we can attain an accuracy of [**88%** using K-nn and **77.42%** using Naive Bayes](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
 
 
-- Training model on basis of given data
+- Training model on basis of given data using th K-NN and Naive Bayes algorithm 
 
