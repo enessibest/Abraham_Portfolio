@@ -39,17 +39,16 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
+[classifying Biomechanical Features of Orthopedic patients](https://github.com/enessibest/KNN-Naive-bayes/blob/main/K_NN_and_NB_project.ipynb)
 
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+<img src="images/ortho.jpg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
-**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+**Project Objective:** Classifying if a patient is normal or abnormal using K-NN and Naive Bayes classifier .
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
+**Quantifiable result:** using this classifiers , we can attain an accuracy of [**88%** using K-nn and **77.42%** using Naive Bayes](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
 
-- Added multiple convolution and pooling layers
+
 - Training model on basis of given data
-- Fitting the CNN to see if the provided image is dog or cat
-- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
+
