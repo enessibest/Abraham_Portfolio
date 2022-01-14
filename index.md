@@ -41,7 +41,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [classifying Biomechanical Features of Orthopedic patients](https://github.com/enessibest/KNN-Naive-bayes/blob/main/K_NN_and_NB_project.ipynb)
 
-<img src="images/knee-brace-ortho.jpg?raw=true"/>
+<img src="images/knee-brace-ortho.png?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
