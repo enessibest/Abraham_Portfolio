@@ -68,3 +68,19 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Applied bagging classifier
 - Apllied gradient boostclassifier model
 - Calculated the accuracy of all the models
+
+****
+
+[To determine how to improve on their policies for employee benefits. ](https://github.com/enessibest/K-Means-Project/blob/main/data_link.md)
+
+<img src="images/Fiscal.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas,SKlearn, Matplotlib,Seaborn
+
+**Project Objective:** To predict on how to improve the organization policies for better employee benefits using the K-means technique.
+
+**Quantifiable result:** Deriving a good number of clusters,We could predict  a better policies for employee benefits using K-Means Clustering classifier
+
+    - cleaning the data 
+    - applying the K-means clustering method
+    - deriving the center of clusters
