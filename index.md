@@ -84,3 +84,20 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - cleaned  data 
 - applyed the K-means clustering method
 - derived the center of clusters
+
+
+****
+
+[To determine the price of housing. ](https://github.com/enessibest/PCA-Analysis/blob/main/PCA.ipynb)
+
+<img src="images/house.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas,SKlearn, Matplotlib,Seaborn,PCA
+
+**Project Objective:** The goal is to predict the price of a house using the dataset and build a model that can predict the price of a house using Principal Component Analysis.
+
+**Quantifiable result:** Using Principal Component Analysis (PCA) as the classifier, we could derive a better future selection to develop a good model for best accuracy
+
+- cleaned  data 
+- applyed PCA 
+- applied linear regression 
