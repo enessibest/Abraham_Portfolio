@@ -79,8 +79,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** To predict on how to improve the organization policies for better employee benefits using the K-means technique.
 
-**Quantifiable result:** Deriving a good number of clusters,We could predict  a better policies for employee benefits using K-Means Clustering classifier
+**Quantifiable result:** Deriving a good number of clusters,We could predict  a better policies for employee benefits using K-Means Clustering classifier for a better accuracy 
 
-    - cleaning the data 
-    - applying the K-means clustering method
-    - deriving the center of clusters
+    - cleaned  data 
+    - applyed the K-means clustering method
+    - derived the center of clusters
