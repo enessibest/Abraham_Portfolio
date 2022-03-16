@@ -81,6 +81,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Quantifiable result:** Deriving a good number of clusters,We could predict  a better policies for employee benefits using K-Means Clustering classifier for a better accuracy 
 
-    - cleaned  data 
-    - applyed the K-means clustering method
-    - derived the center of clusters
+- cleaned  data 
+- applyed the K-means clustering method
+- derived the center of clusters
