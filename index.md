@@ -171,4 +171,4 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Applied Naive Bayes classifier 
 - Applied Random forest classifer 
 - Calculated the accuracy score of the models
-- Select the best model with the best accuracy score.
+- Select the best model with the best accuracy score
