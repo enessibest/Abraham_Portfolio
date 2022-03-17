@@ -135,3 +135,20 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Cleaned data
 - Applied K-NN classifier
 - Calculated the accuracy of the models
+
+****
+
+
+[To Determine if any country experience a significant increase or decrease in happiness ](https://github.com/enessibest/World-Happiness-/blob/main/world_happiness_.ipynb)
+
+<img src="images/happiness.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas,SKlearn, Matplotlib
+
+**Project Objective:**  to predict What countries or regions ranked as the highest in overall happiness using linear Regression 
+
+**Quantifiable result:** We could predict the country with the highest happiness resulting to **99.99% accuracy** using Linear Regression 
+
+- Cleaned data
+- Applied Linear Regression 
+- Calculated the accuracy score of the models
