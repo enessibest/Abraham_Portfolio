@@ -77,7 +77,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, Pandas,SKlearn, Matplotlib,Seaborn
 
-**Project Objective:** To predict on how to improve the organization policies for better employee benefits using the K-means technique.
+**Project Objective:** To predict on how to improve the organization policies for better employee benefits using the K-means classifier .
 
 **Quantifiable result:** Deriving a good number of clusters,We could predict  a better policies for employee benefits using K-Means Clustering classifier for a better accuracy 
 
@@ -113,7 +113,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** To predict which customer segment is most likely to buy the product and then market the product only on that particular segment using K-NN and Naive Bayes classifier 
 
-**Quantifiable result:** We could predict the customers segment resulting in **84.23% accuracy** using K-NN and **78.15 % Accuracy** using Naive Bayes
+**Quantifiable result:** We could predict the customers segment resulting in **84.23% accuracy** using K-NN and **78.15 % Accuracy** using Naive Bayes classifier 
 
 - Cleaned data
 - Applied K-NN classifier
@@ -130,7 +130,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:**  to predict whether a current employee will be leaving the organization in the upcoming two quaters or not using K-NN classifier 
 
-**Quantifiable result:** We could predict an employee leaving or not resulting to **90.89% accuracy** using K-NN 
+**Quantifiable result:** We could predict an employee leaving or not resulting to **90.89% accuracy** using K-NN classifier 
 
 - Cleaned data
 - Applied K-NN classifier
