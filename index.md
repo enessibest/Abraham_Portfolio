@@ -161,7 +161,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, Pandas,SKlearn, Matplotlib
 
-**Project Objective:**  To predict suicide rate among different cohorts globally using linear Regression, K-NN, Naive Bayes and Random Forest
+**Project Objective:**  To predict suicide rate among different cohorts globally using linear Regression, K-NN, Naive Bayes and Random Forest classifier
 
 **Quantifiable result:** We could predict suicide rate resulting to **45.38% accuracy** using Linear Regression and **16.55% accuracy** using K-NN and **4% accuracy** using Naive bayes and **99.70% accuracy**
 
