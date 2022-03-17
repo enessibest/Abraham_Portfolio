@@ -152,3 +152,23 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Cleaned data
 - Applied Linear Regression 
 - Calculated the accuracy score of the models
+
+****
+
+[To Determine the rate of suicide ](https://github.com/enessibest/suicide-rate-project-/blob/main/Suicide_Rate.ipynb)
+
+<img src="images/suicide.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas,SKlearn, Matplotlib
+
+**Project Objective:**  To predict suicide rate among different cohorts globally using linear Regression, K-NN, Naive Bayes and Random Forest
+
+**Quantifiable result:** We could predict suicide rate resulting to **45.38% accuracy** using Linear Regression and **16.55% accuracy** using K-NN and **4% accuracy** using Naive bayes and **99.70% accuracy**
+
+- Cleaned data
+- Applied Linear Regression 
+- Applied K-NN classifier
+- Applied Naive Bayes classifier 
+- Applied Random forest classifer 
+- Calculated the accuracy score of the models
+- Select the best model with the best accuracy score.
