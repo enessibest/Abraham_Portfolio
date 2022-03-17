@@ -119,3 +119,19 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Applied K-NN classifier
 - Apllied Naives Bayes
 - Calculated the accuracy of all the models
+
+****
+
+[Determining if an employee will be leaving an organization or not ](https://github.com/enessibest/Employee-Attrition-project-/blob/main/employee_attrition_.ipynb)
+
+<img src="images/employee.png?raw=true"/>
+
+**Skills used:** Python, Pandas,SKlearn, Matplotlib
+
+**Project Objective:**  to predict whether a current employee will be leaving the organization in the upcoming two quaters or not using K-NN classifier 
+
+**Quantifiable result:** We could predict an employee leaving or not resulting to **90.89% accuracy** using K-NN 
+
+- Cleaned data
+- Applied K-NN classifier
+- Calculated the accuracy of the models
