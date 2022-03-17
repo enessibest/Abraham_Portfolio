@@ -155,6 +155,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ****
 
+
 [To Determine the rate of suicide ](https://github.com/enessibest/suicide-rate-project-/blob/main/Suicide_Rate.ipynb)
 
 <img src="images/suicide.jpg?raw=true"/>
