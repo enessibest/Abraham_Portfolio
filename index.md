@@ -101,3 +101,21 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - cleaned  data 
 - applyed PCA 
 - applied linear regression 
+
+****
+
+
+[Determining which customer segment is most likely to buy the modified product ](https://github.com/enessibest/Marketing-Project/blob/main/Marketing_campaign.ipynb)
+
+<img src="images/Customers.png?raw=true"/>
+
+**Skills used:** Python, Pandas,SKlearn, Matplotlib
+
+**Project Objective:** To predict which customer segment is most likely to buy the product and then market the product only on that particular segment using K-NN and Naive Bayes classifier 
+
+**Quantifiable result:** We could predict the customers segment resulting in **84.23% accuracy** using K-NN and **78.15 % Accuracy** using Naive Bayes
+
+- Cleaned data
+- Applied K-NN classifier
+- Apllied Naives Bayes
+- Calculated the accuracy of all the models
