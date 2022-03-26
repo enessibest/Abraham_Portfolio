@@ -173,3 +173,19 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Applied Random forest classifer 
 - Calculated the accuracy score of the models
 - Select the best model with the best accuracy score
+
+****
+[Examining the Average Height of Male and Female by Country](https://github.com/enessibest/Height-of-Men-Women/blob/main/height_of_M_F.ipynb)
+
+<img src="images/height.png?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:** Predicting Average Height of Men in Countries,Average Height of Women in Countries, Height of Male and Female in Feet,Which country have the tallest male and female and Which countries have the smallest male and female average height
+
+**Quantifiable result:** We could predict the average height resulting in [**99%** accuracy](https://github.com/enessibest/Height-of-Men-Women/blob/main/height_of_M_F.ipynb).
+
+- Used Linear Regression to predict the average height og men and women
+- The data had quite a few categorical variables which were encoded for use in the model
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Cross Validation for validating the training data and model fit.
